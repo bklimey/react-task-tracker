@@ -1,5 +1,7 @@
 Hosted site: http://bklimey.github.io/react-task-tracker
 
+![image](https://user-images.githubusercontent.com/79616664/236437969-e08c243b-13a6-4a89-b9e6-fbef0b0a35ba.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
